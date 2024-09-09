@@ -1,4 +1,4 @@
-id: CRLFInjection
+id: CRLF-Extended
 info:
   name: CRLF Injection Detection
   author: coffin
